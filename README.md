@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-My name is Lucas Neris Matosinhos, I have a degree in Physics from UFMG and I'm currently learning to be a Fullstack Dev at Driven. I have a passion for learning and teaching, so come talk to me. I promise you'll have to deal with only a few of physics random facts
+My name is Lucas Neris Matosinhos, I have a degree in Physics from UFMG and I'm currently learning to be a Fullstack Dev at Driven. I have a passion for learning and teaching.
 
 <!--
 **lucasnerism/lucasnerism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
